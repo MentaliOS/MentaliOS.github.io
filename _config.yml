@@ -2,5 +2,18 @@ title: MentaliOS
 author:
   name: TetroLabs
   
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    github:  MentaliOS
+    
+header_pages:
+- download.md
+- about.md
   
 theme: minima
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
