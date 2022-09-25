@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Download MentaliOS
+title: Download
 permalink: /download/
 ---
