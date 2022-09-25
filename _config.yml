@@ -10,6 +10,7 @@ minima:
     github:  MentaliOS
     
 header_pages:
+- README.md
 - download.md
   
 theme: minima
