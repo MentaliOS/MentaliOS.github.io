@@ -1,6 +1,4 @@
----
-title: Home
----
+
 
 
 > What a MentaliOS?
