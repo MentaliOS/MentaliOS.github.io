@@ -8,4 +8,4 @@ permalink: /devlog/
 
 ### MentaliOS first boot
 
-![Screenshot1](./Screenshot from 2022-10-05 10-39-24.png "Screenshot1")
+![Screenshot1](./screenshot1.png "Screenshot1")
