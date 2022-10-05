@@ -16,7 +16,7 @@ header_pages:
 - devlog.md
 - about.md
   
-theme: minima
+theme: minimal
 
 plugins:
  - jekyll-feed
